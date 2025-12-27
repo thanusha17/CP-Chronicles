@@ -48,6 +48,17 @@
 |Priyanshi Giri		| hellopaintinghi-cmd        | IIIT Allahabad                                               |
 | Mahavir dodiya         |Mvdodiya001               |  IIIT Allahabad                                                 |
 | Ishan Raj Singh        | ishanrajsingh            | Amity, Noida                                                    |
+| Harsh Garg             | gargharsh182005-lab      | IIIT Allahabad                                                  |
+| Lakshmish            | Coldesy             | IIIT Allahabad 
+|Priyanshu Ranjan        | justpriyanshu            | BIT Mesra
+| Vrajkumar Shah        | vraj826                   | DDU, Nadiad
+| Atharva Mehta          | Atharva-insane           |  IIIT Allahabad                                                  |                                   
+| Ankit Pal              | icyfire8                 | IIIT Allahabad |                            
+| Kushagra Raghuvanshi   | Taskmaster-afk          | IIIT Allahabad                                                   |                                                | 
+| Apoorv Mittal          | Apoorv012                |  JIIT Noida                                                  |                                               
+|Aman Kumar Mehta       |AmanMehta22                |Amity University Jharkhand                                         |                                                                                             |     
+| Naman Pal              | Naman2251                | IIIT Allahabad
+| Samarth Patel          | capricemoto              | IIIT Allahbad                                                     |
 | Divakar Bhatt          | wodivakar                | IIIT Allahabad                                                  |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
